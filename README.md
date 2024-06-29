@@ -12,9 +12,13 @@ LLM performance tends to decay when given more complicated tasks. To combat this
 I have separated my approach into a folder of agents taht I am able to put together into group chats to accomplish different high level tasks. I will need to iterate the individual prompts and collection of agents I use to tackle a specific problem.
 
 # Topics To Explore
-Nested Chats
-Capabilities
-Tools
-Speaker Transition Constraints
-Conversation Termination
-Human Feedback within Workflow Loop
+1. Nested Chats
+2. Capabilities
+3. Tools
+4. Speaker Transition Constraints
+5. Conversation Termination
+6. Human Feedback within Workflow Loop
+7. Front End Reply Connection
+
+
+
